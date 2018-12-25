@@ -1,0 +1,16 @@
+{
+  "name": "Meeting Planner",
+  "version": "0.0.1",
+  "description": "This is a meeting creater",
+  "title": "Edwisor Project api",
+  "url": "http://api.jyotivermprojects.info",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2018-12-25T06:32:38.272Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.7"
+  }
+}
